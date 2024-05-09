@@ -1,0 +1,15 @@
+div
+    .App{
+        display: flex;
+        flex-direction: row;
+    }
+    .puppyBox{
+        background-color: brown;
+        padding: 5px;
+        width: 32vh;
+        margin: 5px;
+        border-radius: 2px;
+        border-width: 2px;
+        border-style: solid;
+        border-color: aqua;
+    }
